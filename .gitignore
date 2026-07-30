@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+models/*.pkl
+
+# Data
+data/raw/
+data/processed/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
