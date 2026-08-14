@@ -51,7 +51,7 @@ A complete, end-to-end machine learning project to predict customer churn for a 
 | Day | Task | Status |
 |-----|------|--------|
 | 1 | Project Setup & Data Exploration | ✅ Done |
-| 2 | Data Cleaning & Preprocessing | 🔲 Pending |
+| 2 | Data Cleaning & Preprocessing | ✅ Done |
 | 3 | EDA Visualizations | 🔲 Pending |
 | 4 | Feature Engineering | 🔲 Pending |
 | 5 | Baseline Models | 🔲 Pending |
