@@ -36,6 +36,9 @@ for _dir in [PROC_DATA_DIR, MODELS_DIR, REPORTS_DIR, IMAGES_DIR]:
 RAW_DATA_PATH     = RAW_DATA_DIR / "WA_Fn-UseC_-Telco-Customer-Churn.csv"
 CLEANED_DATA_PATH = PROC_DATA_DIR / "cleaned_data.csv"
 FEATURES_PATH     = PROC_DATA_DIR / "features.csv"
+TRAIN_PATH        = PROC_DATA_DIR / "train.csv"
+TEST_PATH         = PROC_DATA_DIR / "test.csv"
+SCALER_PATH       = MODELS_DIR / "scaler.pkl"
 BEST_MODEL_PATH   = MODELS_DIR / "best_model.pkl"
 
 
