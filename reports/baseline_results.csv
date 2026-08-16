@@ -1,5 +1,5 @@
 Model,Accuracy,Precision,Recall,F1,ROC-AUC,Train Time (s)
-Random Forest,0.7573,0.529,0.7608,0.624,0.8419,0.42
-Logistic Regression,0.7409,0.5072,0.7608,0.6086,0.8418,0.07
-Decision Tree,0.7402,0.5063,0.7581,0.6071,0.8212,0.03
+Random Forest,0.7573,0.529,0.7608,0.624,0.8419,0.34
+Logistic Regression,0.7409,0.5072,0.7608,0.6086,0.8418,0.04
+Decision Tree,0.7402,0.5063,0.7581,0.6071,0.8212,0.02
 Dummy (Stratified),0.6157,0.2754,0.2769,0.2761,0.5073,0.0
