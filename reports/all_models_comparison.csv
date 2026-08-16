@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+CatBoost (Tuned),0.753,0.5223,0.7876,0.6281,0.8441
+LightGBM (Tuned),0.7658,0.5416,0.7527,0.6299,0.8439
+XGBoost (Tuned),0.7616,0.5343,0.7742,0.6323,0.8428
+Random Forest,0.7573,0.529,0.7608,0.624,0.8419
+Logistic Regression,0.7409,0.5072,0.7608,0.6086,0.8418
+Decision Tree,0.7402,0.5063,0.7581,0.6071,0.8212
